@@ -1,0 +1,273 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+17 items
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/common/package$.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/common/package.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$2.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$convert$1.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman.class
+binary dependencies:
+4 items
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> /Users/nilic/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/nilic/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+17 items
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> common.package
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> common.package$
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$1
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$codeBits$1
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$codeBits$2
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$convert$1
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$quickEncode$1
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+140 items
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> ::
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> <init>
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> <repeated>
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> Any
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> AnyRef
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> File
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> FileInputStream
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> InputStream
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> List
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> None
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> Nothing
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> Option
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> Predef
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> String
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> _root_
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> child
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> children
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> classesDir
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> common
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> exists
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> file
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> foldLeft
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> getClass
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> getParentFile
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> getResource
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> io
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> java
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> package
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> projectDir
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> resourceFile
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> resourcePath
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> scala
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> subFile
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> toURI
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> !=
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> +
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> <
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> List
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> None
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> String
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> a
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> b
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> c
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> canBuildFrom
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> ch
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> char
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> code
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> common
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> contains
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> convert
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> currentTree
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> empty
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> equals
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> filter
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> flatMap
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> get
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> head
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> helper
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> insert
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> isEmpty
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> left
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> lengthCompare
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> m
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> map
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> ne
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> package
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> right
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> str
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> table
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> tail
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> text
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> times
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> traverse
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> unapplySeq
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> unary_!
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> union
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> until
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> x
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> xs
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> y
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> ys
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+17 items
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1499485585000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1499485585000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1499485585000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class -> lastModified(1499493278000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class -> lastModified(1499493278000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$2.class -> lastModified(1499493278000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$convert$1.class -> lastModified(1499493278000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1499493278000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1499493278000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class -> lastModified(1499493278000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1499493278000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1499493278000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1499493278000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1499493278000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1499493278000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1499493278000)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1499493278000)
+source stamps:
+2 items
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> hash(e25a29866fc3a8ede7d22ac7e13ed13ffee67c8c)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1466589303000)
+/Users/nilic/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/nilic/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> scala.Serializable
+internal apis:
+2 items
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdIE4y/nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFsvVXNlcnMvbmlsaWMvRG9jdW1lbnRzL09ubHlOYXRhbGlqYS1Qcml2YXRlL1NjYWxhLUNvdXJzZXJhL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDilFMbAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBBqRuZ0AAZub3RpZnlzcQB+AAzj40CDdAAMbWFrZUNvZGVUcmVlc3EAfgAMMNffwHQABnNlY3JldHNxAH4ADPnmDgl0AAd1bmFwcGx5c3EAfgAMppAJRHQABmVuY29kZXNxAH4ADGGw/o10AAZ3ZWlnaHRzcQB+AAx7QHfadAAHY3VycmllZHNxAH4ADNn4AyZ0AAR3YWl0c3EAfgAMP0xdhXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMnzJEPnQADSRhc0luc3RhbmNlT2ZzcQB+AAzPLpcsdAAGaW5zZXJ0c3EAfgAMoU+ao3QADHByb2R1Y3RBcml0eXNxAH4ADK2KQsV0AAZlcXVhbHNzcQB+AAxTS/judAALcXVpY2tFbmNvZGVzcQB+AAxnJV5jdAAMYXNJbnN0YW5jZU9mc3EAfgAMmcIySXQADHN5bmNocm9uaXplZHNxAH4ADDOC3Zh0AARsZWZ0c3EAfgAMLz8moXQADSRpc0luc3RhbmNlT2ZzcQB+AAzkbWOYdAAGdHVwbGVkc3EAfgAM5YxKkHQAB0h1ZmZtYW5zcQB+AAyvM+DVdAAIY2FuRXF1YWxzcQB+AAzcuCqZdAAOY29weSRkZWZhdWx0JDRzcQB+AAzpowCHdAAEY2hhcnNxAH4ADLgUBvx0AAZkZWNvZGVzcQB+AAxnteCcdAAETGVhZnNxAH4ADNSf+JB0AAhjb2RlQml0c3NxAH4ADASF1GR0AA1wcm9kdWN0UHJlZml4c3EAfgAMuH7iyXQABXVudGlsc3EAfgAM1rKAsXQACmZyZW5jaENvZGVzcQB+AAz0F+spdAAJbm90aWZ5QWxsc3EAfgAMi9wBCXQAC3JlYWRSZXNvbHZlc3EAfgAM6sYZDnQABWNoYXJzc3EAfgAMCuoq/3QADGlzSW5zdGFuY2VPZnNxAH4ADDRxsyN0AAY8aW5pdD5zcQB+AAzb7l0ZdAAFYXBwbHlzcQB+AAz+TOuvdAANZGVjb2RlZFNlY3JldHNxAH4ADCTov5x0AAI9PXNxAH4ADBL0or10AAVjbG9uZXNxAH4ADBgXJOF0AA9tZXJnZUNvZGVUYWJsZXNzcQB+AAwIKvVAdAAFdGltZXNzcQB+AAzzaPoydAAHY29tYmluZXNxAH4ADJombp50AA5jb3B5JGRlZmF1bHQkM3NxAH4ADL4+j3J0AARjb3B5c3EAfgAMX9xEyHQADHN0cmluZzJDaGFyc3NxAH4ADNRg4Op0AAh0b1N0cmluZ3NxAH4ADI6HD+d0AAlzaW5nbGV0b25zcQB+AAzai14tdAACIT1zcQB+AAyiLWWqdAAIZ2V0Q2xhc3NzcQB+AAwaC9rBdAAJQ29kZVRhYmxlc3EAfgAMR2D433QADmNyZWF0ZUNvZGVUcmVlc3EAfgAMRfJBNnQADmNvcHkkZGVmYXVsdCQxc3EAfgAM9q1EPHQABEZvcmtzcQB+AAwlxqCSdAADQml0c3EAfgAMspD1b3QAAm5lc3EAfgAMQ8CvyHQAE21ha2VPcmRlcmVkTGVhZkxpc3RzcQB+AAwXcm2rdAAIQ29kZVRyZWVzcQB+AAzHdG2RdAACZXFzcQB+AAyHeQSodAAHY29udmVydHNxAH4ADF4e7tV0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwZrS4GdAAFcmlnaHRzcQB+AAwhplqIdAACIyNzcQB+AAwzMJ0XdAAIZmluYWxpemVzcQB+AAxVJdcedAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzRwE+9dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOcGF0bWF0Lkh1ZmZtYW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AK8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJdMAAlpbmhlcml0ZWRxAH4Al0wAB3BhcmVudHNxAH4Al3hxAH4AtnNxAH4ArwF1cQB+AJIAAAAAcHNxAH4ArwF1cQB+AJIAAAAAcHNxAH4ArwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AM50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AM9zcQB+AMJ0AANBbnlzcQB+AMZzcQB+AMl1cQB+AMwAAAACc3EAfgDOdAAFc2NhbGFxAH4A1XBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGcGF0bWF0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdIMOVIXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFsvVXNlcnMvbmlsaWMvRG9jdW1lbnRzL09ubHlOYXRhbGlqYS1Qcml2YXRlL1NjYWxhLUNvdXJzZXJhL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU4lophm/DqO3n0irH4T7RP/7mfIw=
+external apis:
+0 items
+source infos:
+2 items
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/nilic/Documents/OnlyNatalija-Private/Scala-Coursera/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAgAAAQAAAG0AHCAgICAgIGNhc2UgXyA6OiBOaWwgID0+IHRydWUBAAAOgwEAAAAYAQAYICAgICAgICAgICAgICAgICAgICAgICAgAQBlL1VzZXJzL25pbGljL0RvY3VtZW50cy9Pbmx5TmF0YWxpamEtUHJpdmF0ZS9TY2FsYS1Db3Vyc2VyYS9wYXRtYXQvc3JjL21haW4vc2NhbGEvcGF0bWF0L0h1ZmZtYW4uc2NhbGEBAGUvVXNlcnMvbmlsaWMvRG9jdW1lbnRzL09ubHlOYXRhbGlqYS1Qcml2YXRlL1NjYWxhLUNvdXJzZXJhL3BhdG1hdC9zcmMvbWFpbi9zY2FsYS9wYXRtYXQvSHVmZm1hbi5zY2FsYQAQdW5yZWFjaGFibGUgY29kZQEAAAEAAABrAEEgICAgZGVmIHNpbmdsZXRvbih0cmVlczogTGlzdFtDb2RlVHJlZV0pOiBCb29sZWFuID0gdHJlZXMgbWF0Y2ggewEAAA5CAQAAADQBADQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBlL1VzZXJzL25pbGljL0RvY3VtZW50cy9Pbmx5TmF0YWxpamEtUHJpdmF0ZS9TY2FsYS1Db3Vyc2VyYS9wYXRtYXQvc3JjL21haW4vc2NhbGEvcGF0bWF0L0h1ZmZtYW4uc2NhbGEBAGUvVXNlcnMvbmlsaWMvRG9jdW1lbnRzL09ubHlOYXRhbGlqYS1Qcml2YXRlL1NjYWxhLUNvdXJzZXJhL3BhdG1hdC9zcmMvbWFpbi9zY2FsYS9wYXRtYXQvSHVmZm1hbi5zY2FsYQBGbWF0Y2ggbWF5IG5vdCBiZSBleGhhdXN0aXZlLgpJdCB3b3VsZCBmYWlsIG9uIHRoZSBmb2xsb3dpbmcgaW5wdXQ6IE5pbAEAAAAA
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSBOMv51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWy9Vc2Vycy9uaWxpYy9Eb2N1bWVudHMvT25seU5hdGFsaWphLVByaXZhdGUvU2NhbGEtQ291cnNlcmEvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSC/vZF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWy9Vc2Vycy9uaWxpYy9Eb2N1bWVudHMvT25seU5hdGFsaWphLVByaXZhdGUvU2NhbGEtQ291cnNlcmEvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSDDlSF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWy9Vc2Vycy9uaWxpYy9Eb2N1bWVudHMvT25seU5hdGFsaWphLVByaXZhdGUvU2NhbGEtQ291cnNlcmEvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
